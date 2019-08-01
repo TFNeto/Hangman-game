@@ -1,4 +1,4 @@
-Hangman game - My first C++ project.
+Hangman game - My first C++ project (2017).
 - Linux based
 - PostgreSQL database
 - A server based multiplayer game (only one game at a time).
