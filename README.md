@@ -1,5 +1,6 @@
-Hangman game
-My first C++ project.
+Hangman game - My first C++ project.
+- Linux based
+- PostgreSQL database
 - A server based multiplayer game (only one game at a time).
 - Players have to register and login in order to play.
 - Players info, games info, words and their categories are kept in the database.
@@ -7,7 +8,7 @@ My first C++ project.
 
 
 TODO
-
+  - Change DB functions to use Prepare & Execute -> prevent SQL injection
   - Organize the code in diferent folders/ files accordingly to their function.
   - Overall improve of the code.
   - Unit testing
